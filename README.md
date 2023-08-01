@@ -1,1 +1,0 @@
-# robosop-shellscripting
